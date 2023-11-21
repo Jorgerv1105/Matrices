@@ -27,7 +27,8 @@ int main(int argc, char const *argv[])
             {
                 matrix[i][j] = 0;
             }
-
+            //Imprimimos la matriz resultante 
+            printf("%d\t", matrix[i][j]);
         }
     }
 
